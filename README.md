@@ -13,7 +13,7 @@ Python is a versatile and powerful programming language, and the best way to lea
 
 Here are some of the projects included in this repository:
 
-- **Project 1:** [consumption bill until the end of the month]
+- **Project 1:** [My salary control]
   - Description of the project.
     As I myself follow a Python learning course, I will also apply scientifically here. That everyone can see my progress through actionable ideas and projects.
   - How to use it.
