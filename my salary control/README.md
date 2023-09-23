@@ -1,0 +1,1 @@
+A simple program for calculating salary and the possibility of spending money from the account until the new payment arrives.
